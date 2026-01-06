@@ -74,19 +74,8 @@ Here's a visual representation of my educational path so far — from the roots 
               [📚 Primary Education 🏫]
               Shaheen Model College
                        (Roots)
-```
 
-### 📊 Journey Summary
 
-| Stage | Institution | Marks/Status | 
-|-------|-------------|--------------|--------|
-| **Roots** | Shaheen Model College | Primary Education | 
-| **Matric ** | Shaheen Model College | 929 / 1100 |
-| **FSC** | Global College of Natural Science | 939 / 1200 | 
-| **AI (First Semester)** | Currently Studying | In Progress | 
-| **Future** | — | Long journey to gooo... |
-
----
 
 ## 📫 Let's Connect!
 

@@ -23,6 +23,8 @@ I'm at the beginning of this path, and I'm committed to learning consistently an
 - Git & GitHub — Basic commands, repositories, commits
 - **Problem Solving** — Learning to think logically
 - 📖 **Willingness to Learn** — Always curious and ready to improve
+##The skill that am proud of 
+-Teaching the things I learned in the best possible ways
 
 I know I have a long way to go, but I'm enjoying the process!
 
@@ -76,20 +78,20 @@ Here's a visual representation of my educational path so far — from the roots 
 
 ### 📊 Journey Summary
 
-| Stage | Institution | Marks/Status | Symbol |
+| Stage | Institution | Marks/Status | 
 |-------|-------------|--------------|--------|
-| **Roots** | Shaheen Model College | Primary Education | 📚🏫 |
-| **Matric (STEM)** | Shaheen Model College | 929 / 1100 | 📝🎓 |
-| **FSC** | Global College of Natural Science | 939 / 1200 | 🎓🔬 |
-| **AI (First Semester)** | Currently Studying | In Progress | 🤖📘 |
-| **Future** | — | Long journey to gooo... | 🚀✨ |
+| **Roots** | Shaheen Model College | Primary Education | 
+| **Matric ** | Shaheen Model College | 929 / 1100 |
+| **FSC** | Global College of Natural Science | 939 / 1200 | 
+| **AI (First Semester)** | Currently Studying | In Progress | 
+| **Future** | — | Long journey to gooo... |
 
 ---
 
 ## 📫 Let's Connect!
 
 I'm always open to connecting with fellow learners, developers, and anyone passionate about technology. Feel free to reach out or follow my journey here on GitHub!
-
+https://github.com/Qurat-ul-Ain0
 ---
 
 ✨ "Every expert was once a beginner. Keep going!

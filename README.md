@@ -1,4 +1,4 @@
-![Banner](banner.png)# 👋 Hi, I'm Qurat ul Ain!
+# 👋 Hi, I'm Qurat ul Ain!
 
 🌱 Beginner | Learning Step by Step | Growing 
 

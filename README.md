@@ -1,4 +1,6 @@
-![1767789144654](https://github.com/user-attachments/assets/699e42c5-9cae-4a0f-8f6d-c1c9c04ed2e3)
+<p align="center">
+  <img src="PASTE_IMAGE_LINK_HERE" />
+</p> ![1767789144654](https://github.com/user-attachments/assets/699e42c5-9cae-4a0f-8f6d-c1c9c04ed2e3)
 #  Hi, I'm Qurat ul Ain!
 
 🌱 Beginner | Learning Step by Step | Growing 

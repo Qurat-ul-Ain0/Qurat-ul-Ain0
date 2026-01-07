@@ -31,19 +31,14 @@ I know I have a long way to go, but I'm enjoying the process!
 
 ---
 
-## 🎯 My Goals
+**GOALS**
+![1767791522879](https://github.com/user-attachments/assets/8778cdab-12b0-41f0-b1e2-7cc9028db240)
 
-✅ Become confident in coding  
-✅ Build small projects to practice what I learn  
-✅ Learn consistently, even if it's just a little every day  
-✅ Grow in the tech world step by step  
-✅ Never stop being curious  
 
----
-
-##A Quote I Believe In
+**Quote I Believe In**
 
 > *"Inside every person, there are two forces — one good and one bad. The one that grows stronger is the one we choose to feed.
+
  if you truly want to learn something, try teaching it to others, because teaching is the deepest form of learning.
 
 This reminds me to stay intentional with my choices and to share what I learn with others.

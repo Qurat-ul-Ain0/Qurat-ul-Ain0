@@ -13,8 +13,8 @@ I'm a beginner on my journey into the world of programming and technology. I bel
 -Python — Learning the basics and building small programs
 - Git & GitHub— Understanding version control and collaboration
 - 🤖 **AI Fundamentals** — Starting my journey into artificial intelligence
-
-I'm at the beginning of this path, and I'm committed to learning consistently and growing every day.
+- 
+**The lessons in failure shape me more than the victories ever could**
 
 ---
 
@@ -37,9 +37,11 @@ I know I have a long way to go, but I'm enjoying the process!
 
 **Quote I Believe In**
 
-> *"Inside every person, there are two forces — one good and one bad. The one that grows stronger is the one we choose to feed.
+> **Inside every person, there are two forces — one good and one bad. The one that grows stronger is the one we choose to feed**
 
- if you truly want to learn something, try teaching it to others, because teaching is the deepest form of learning.
+ if you truly want to learn something, try teaching it to others.
+
+ **The best way of learning is teaching**
 
 This reminds me to stay intentional with my choices and to share what I learn with others.
 
@@ -72,6 +74,7 @@ Here's a visual representation of my educational path so far — from the roots 
                        (Roots)
 
 
+**The top of one mountain is the bottom of next so keep climbing**
 
 ## 📫 Let's Connect!
 
